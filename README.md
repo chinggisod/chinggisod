@@ -2,7 +2,9 @@
 Tokyo / 東京 🗼
 
 ## About ✨
-iOS engineer in Tokyo working on large-scale consumer apps. I focus on Swift, UIKit/SwiftUI, maintainable architectures, and reliability. Interested in platform work and developer-velocity improvements. 🚀  
+Mobile application engineer in Tokyo working on large-scale consumer apps.
+I focus on Swift, UIKit/SwiftUI, KMP, maintainable architectures, and reliability.
+Interested in platform work and developer-velocity improvements. 🚀  
 
 **JP:** 東京でiOSエンジニアとして、大規模なコンシューマー向けアプリの開発に取り組んでいます。Swift、UIKit/SwiftUI、保守性の高いアーキテクチャ、信頼性（品質・安定性）を重視。プラットフォーム領域の改善や開発生産性の向上にも関心があります。🚀
 
